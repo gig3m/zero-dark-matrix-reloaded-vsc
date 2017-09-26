@@ -1,0 +1,22 @@
+{
+    "name": "zero-dark-matrix-reloaded",
+    "displayName": "Zero Dark Matrix Reloaded",
+    "description": "Dark and opinionated, based on Chrome Dev Tools.",
+    "version": "0.0.1",
+    "publisher": "gig3m",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zero Dark Matrix Reloaded",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zero Dark Matrix Reloaded-color-theme.json"
+            }
+        ]
+    }
+}
