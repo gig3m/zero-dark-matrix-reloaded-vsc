@@ -1,13 +1,16 @@
-# README
-## This is the README for your extension "zero-dark-matrix-reloaded"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Zero Dark Matrix Reloaded
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+A dark, yet juicy VSCode theme modeled after the Chrome Dev Tools and their predecessor, Zero Dark Matrix.  Deviations are personal choice, pull requests are welcome!
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![HTML/Blade](blade.png)
+
+![PHP](php.png)
+
+![Vue](vue.png)
+
+## Other Version of this theme
+
+- Sublime Text: [https://github.com/gig3m/zero-dark-matrix-reloaded](https://github.com/gig3m/zero-dark-matrix-reloaded)
+- Hyper: [https://github.com/gig3m/hyper-zero-dark-matrix](https://github.com/gig3m/hyper-zero-dark-matrix)
 
 **Enjoy!**
